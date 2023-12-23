@@ -7,11 +7,11 @@
   "scripts": {
     "start": "node dist/index.js",
     "start:dev": "cross-env PORT=3030 DEBUG=LOG* nodemon dist/index.js",
-    "build": "tsc -w",
+    "build:dev": "tsc -w",
     "test": "jest --watchAll --coverage",
     "test:pro": "jest --watchAll --coverage --watchAll=false --passWithNoTests",
     "test:coverage": "jest --watchAll --coverage",
-    "build:pro": "tsc",
+    "build": "tsc",
     "api": "json-server --watch ./api/db.json",
     "prepare": "husky install"
   },
