@@ -13,7 +13,7 @@ _By Abel Naharro_ 😁👍 <a href="https://www.linkedin.com/in/abelnaharro/" ta
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.1.0/icons/render.svg" alt="Project link of Render" height="30" width="40"/>Render Project</a>
 
 <a href="https://github.com/isdi-coders-2023/Abel-Naharro-Final-Project-front-202309-mad" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.1.0/icons/github.svg" alt="Project link of fontend project" height="30" width="40"/>Backend Project</a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.1.0/icons/github.svg" alt="Project link of fontend project" height="30" width="40"/>Frontend Project</a>
 
 ## 🛠️ Built With
 
