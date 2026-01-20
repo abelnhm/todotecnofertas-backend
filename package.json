@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node build/index.js",
-    "start:dev": "cross-env PORT=3030 DEBUG=LOG* nodemon dist/index.js",
+    "start:dev": "cross-env PORT=3030 DEBUG=LOG* nodemon build/index.js",
     "build:dev": "tsc -w",
     "test": "jest --watchAll --coverage",
     "test:pro": "jest --watchAll --coverage --watchAll=false --passWithNoTests",
