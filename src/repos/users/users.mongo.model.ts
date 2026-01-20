@@ -12,10 +12,10 @@ const usersSchema = new Schema<User>({
 
 usersSchema.set('toJSON', {
   transform(_doc, returnedObject) {
-    returnedObject.id = returnedObject._id;
-    delete returnedObject._id;
-    delete returnedObject.__v;
-    delete returnedObject.password;
+    returnedObject.id = returnedObject._id.toString();
+    delete (returnedObject as any)._id;
+    delete (returnedObject as any).__v;
+    delete (returnedObject as any).password;
   },
 });
 

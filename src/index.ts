@@ -10,7 +10,7 @@ const server = createServer(app);
 dbConnect()
   .then((mongoose) => {
     server.listen(PORT);
-    debugServer(`Connect to DB: ${mongoose.connection.db.databaseName}`);
+    debugServer(`Connect to DB: ${mongoose.connection.db?.databaseName}`);
   })
   .catch((error) => server.emit(error));
 
