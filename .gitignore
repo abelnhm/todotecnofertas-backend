@@ -132,3 +132,6 @@ dist
 DS_Store
 
 .vscode
+
+#Disable track build folder
+build/*
