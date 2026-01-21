@@ -6,13 +6,13 @@ _By Abel Naharro_ 😁👍 <a href="https://www.linkedin.com/in/abelnaharro/" ta
 
 > Todotecnofertas is a social web app specialized in sharing online offers about technology.
 
-<a href="https://sonarcloud.io/summary/overall?id=isdi-coders-2023_Abel-Naharro-Final-Project-back-202309-mad" target="blank">
+<a href="https://sonarcloud.io/summary/new_code?id=abelnhm_todotecnofertas-backend" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.1.0/icons/sonarcloud.svg" alt="Project information on sonarcloud" height="30" width="40"/>SonarCloud</a>
 
 <a href="https://two02309-final-backend-abel-naharro.onrender.com" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.1.0/icons/render.svg" alt="Project link of Render" height="30" width="40"/>Render Project</a>
 
-<a href="https://github.com/isdi-coders-2023/Abel-Naharro-Final-Project-front-202309-mad" target="blank">
+<a href="https://github.com/abelnhm/todotecnofertas-frontend" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.1.0/icons/github.svg" alt="Project link of fontend project" height="30" width="40"/>Frontend Project</a>
 
 ## 🛠️ Built With
